@@ -1,4 +1,1 @@
-# repo
-# pau calvo
-# pandom
-# prueba
+# smx2_repositorio_pau

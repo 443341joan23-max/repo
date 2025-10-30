@@ -1,1 +1,0 @@
-# smx2_repositorio_pau
